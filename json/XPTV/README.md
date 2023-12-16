@@ -1,4 +1,7 @@
 
+# XPTV使用大全：
+
+https://cymcn.github.io/xptv/index.html
 
 
 # JSON转csv、excel：
