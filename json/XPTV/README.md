@@ -4,6 +4,11 @@
 https://cymcn.github.io/xptv/index.html
 
 
+# XPTV简单仓库
+
+https://github.com/fangkuia/XPTV
+
+
 # JSON转csv、excel：
 
 https://m.bejson.com/json/json2excel/
